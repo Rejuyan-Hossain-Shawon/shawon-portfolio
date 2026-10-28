@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react';
-import { ArrowDown, ArrowRight, ArrowUpRight, BookOpen, BriefcaseBusiness, Check, Code2, Download, ExternalLink, Github, GraduationCap, Linkedin, Mail, Menu, X, Layers3, Database, BrainCircuit, Globe2, Sparkles, ChevronRight, Award } from 'lucide-react';
+import { ArrowDown, ArrowRight, ArrowUpRight, BookOpen, BriefcaseBusiness, Check, Code2, Download, ExternalLink, Github, GraduationCap, Linkedin, Mail, Menu, X, BrainCircuit, Globe2, Sparkles, ChevronRight, Award } from 'lucide-react';
 
 const github='https://github.com/Rejuyan-Hossain-Shawon';
 const linkedin='https://www.linkedin.com/in/rejuyan-hossain-shawon-0b400717b/';
